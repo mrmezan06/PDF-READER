@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PDF Reader</string>
+    <string name="hint">Select A PDF File To Read It</string>
+</resources>
